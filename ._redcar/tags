@@ -1,0 +1,522 @@
+1333993069
+AGES	C:/Data/Ruby/Nehemiah/app/models/registration.rb		AGES =
+AddSexAndAgeToRegistration	C:/Data/Ruby/Nehemiah/db/migrate/20101213000943_add_sex_and_age_to_registration.rb	class AddSexAndAgeToRegistration 
+Ag	C:/Data/Ruby/Nehemiah/app/models/ag.rb	class Ag 
+Ags	C:/Data/Ruby/Nehemiah/spec/requests/ags_spec.rb	describe "Ags" do
+AgsController	C:/Data/Ruby/Nehemiah/app/controllers/ags_controller.rb	class AgsController 
+AgsHelper	C:/Data/Ruby/Nehemiah/app/helpers/ags_helper.rb	module AgsHelper
+Application	C:/Data/Ruby/Nehemiah/config/application.rb	  class Application 
+ApplicationController	C:/Data/Ruby/Nehemiah/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Data/Ruby/Nehemiah/app/helpers/application_helper.rb	module ApplicationHelper
+Area	C:/Data/Ruby/Nehemiah/app/models/area.rb	class Area 
+Areas	C:/Data/Ruby/Nehemiah/spec/requests/areas_spec.rb	describe "Areas" do
+AreasController	C:/Data/Ruby/Nehemiah/app/controllers/areas_controller.rb	class AreasController 
+AreasHelper	C:/Data/Ruby/Nehemiah/app/helpers/areas_helper.rb	module AreasHelper
+CreateAgs	C:/Data/Ruby/Nehemiah/db/migrate/20101208160108_create_ags.rb	class CreateAgs 
+CreateAreas	C:/Data/Ruby/Nehemiah/db/migrate/20101208155935_create_areas.rb	class CreateAreas 
+CreateEvents	C:/Data/Ruby/Nehemiah/db/migrate/20101208161239_create_events.rb	class CreateEvents 
+CreateRegistrations	C:/Data/Ruby/Nehemiah/db/migrate/20101208161744_create_registrations.rb	class CreateRegistrations 
+CreateSeasons	C:/Data/Ruby/Nehemiah/db/migrate/20101208161045_create_seasons.rb	class CreateSeasons 
+DELETE destroy	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	describe "DELETE destroy" do
+DELETE destroy	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	describe "DELETE destroy" do
+DELETE destroy	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	describe "DELETE destroy" do
+DELETE destroy	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	describe "DELETE destroy" do
+DELETE destroy	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	describe "DELETE destroy" do
+Event	C:/Data/Ruby/Nehemiah/app/models/event.rb	class Event 
+Events	C:/Data/Ruby/Nehemiah/spec/requests/events_spec.rb	describe "Events" do
+EventsController	C:/Data/Ruby/Nehemiah/app/controllers/events_controller.rb	class EventsController 
+EventsHelper	C:/Data/Ruby/Nehemiah/app/helpers/events_helper.rb	module EventsHelper
+GET 'index'	C:/Data/Ruby/Nehemiah/spec/controllers/home_controller_spec.rb	describe "GET 'index'" do
+GET /ags	C:/Data/Ruby/Nehemiah/spec/requests/ags_spec.rb	describe "GET /ags" do
+GET /areas	C:/Data/Ruby/Nehemiah/spec/requests/areas_spec.rb	describe "GET /areas" do
+GET /events	C:/Data/Ruby/Nehemiah/spec/requests/events_spec.rb	describe "GET /events" do
+GET /registrations	C:/Data/Ruby/Nehemiah/spec/requests/registrations_spec.rb	describe "GET /registrations" do
+GET /seasons	C:/Data/Ruby/Nehemiah/spec/requests/seasons_spec.rb	describe "GET /seasons" do
+GET edit	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	describe "GET edit" do
+GET edit	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	describe "GET edit" do
+GET edit	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	describe "GET edit" do
+GET edit	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	describe "GET edit" do
+GET edit	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	describe "GET edit" do
+GET index	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	describe "GET index" do
+GET index	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	describe "GET index" do
+GET index	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	describe "GET index" do
+GET index	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	describe "GET index" do
+GET index	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	describe "GET index" do
+GET new	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	describe "GET new" do
+GET new	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	describe "GET new" do
+GET new	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	describe "GET new" do
+GET new	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	describe "GET new" do
+GET new	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	describe "GET new" do
+GET show	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	describe "GET show" do
+GET show	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	describe "GET show" do
+GET show	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	describe "GET show" do
+GET show	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	describe "GET show" do
+GET show	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	describe "GET show" do
+HomeController	C:/Data/Ruby/Nehemiah/app/controllers/home_controller.rb	class HomeController 
+HomeHelper	C:/Data/Ruby/Nehemiah/app/helpers/home_helper.rb	module HomeHelper
+POST create	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	describe "POST create" do
+POST create	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	describe "POST create" do
+POST create	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	describe "POST create" do
+POST create	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	describe "POST create" do
+POST create	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	describe "POST create" do
+PUT update	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	describe "PUT update" do
+PUT update	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	describe "PUT update" do
+PUT update	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	describe "PUT update" do
+PUT update	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	describe "PUT update" do
+PUT update	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	describe "PUT update" do
+Registration	C:/Data/Ruby/Nehemiah/app/models/registration.rb	class Registration 
+Registrations	C:/Data/Ruby/Nehemiah/spec/requests/registrations_spec.rb	describe "Registrations" do
+Registrations	C:/Data/Ruby/Nehemiah/config/application.rb	module Registrations
+RegistrationsController	C:/Data/Ruby/Nehemiah/app/controllers/registrations_controller.rb	class RegistrationsController 
+RegistrationsHelper	C:/Data/Ruby/Nehemiah/app/helpers/registrations_helper.rb	module RegistrationsHelper
+SEXES	C:/Data/Ruby/Nehemiah/app/models/registration.rb		SEXES =
+SEX_FEMALE	C:/Data/Ruby/Nehemiah/app/models/registration.rb		SEX_FEMALE =
+SEX_MALE	C:/Data/Ruby/Nehemiah/app/models/registration.rb		SEX_MALE =
+Season	C:/Data/Ruby/Nehemiah/app/models/season.rb	class Season 
+Seasons	C:/Data/Ruby/Nehemiah/spec/requests/seasons_spec.rb	describe "Seasons" do
+SeasonsController	C:/Data/Ruby/Nehemiah/app/controllers/seasons_controller.rb	class SeasonsController 
+SeasonsHelper	C:/Data/Ruby/Nehemiah/app/helpers/seasons_helper.rb	module SeasonsHelper
+Str	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function Str(key, holder, stack)
+Type	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function Type(o)
+abs	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function abs()
+absolutize	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function absolutize(element)
+addMethods	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function addMethods(source)
+addText	C:/Data/Ruby/Nehemiah/public/javascripts/controls.js	function addText(mode, condition)
+add_person_link	C:/Data/Ruby/Nehemiah/app/helpers/registrations_helper.rb		def add_person_link(name)
+admin	C:/Data/Ruby/Nehemiah/app/controllers/home_controller.rb	  def admin
+agcreate	C:/Data/Ruby/Nehemiah/app/controllers/registrations_controller.rb	  def agcreate
+ags/edit.html.erb	C:/Data/Ruby/Nehemiah/spec/views/ags/edit.html.erb_spec.rb	describe "ags/edit.html.erb" do
+ags/index.html.erb	C:/Data/Ruby/Nehemiah/spec/views/ags/index.html.erb_spec.rb	describe "ags/index.html.erb" do
+ags/new.html.erb	C:/Data/Ruby/Nehemiah/spec/views/ags/new.html.erb_spec.rb	describe "ags/new.html.erb" do
+ags/show.html.erb	C:/Data/Ruby/Nehemiah/spec/views/ags/show.html.erb_spec.rb	describe "ags/show.html.erb" do
+agshow	C:/Data/Ruby/Nehemiah/app/controllers/registrations_controller.rb	  def agshow
+all	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function all(iterator, context)
+any	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function any(iterator, context)
+areas/edit.html.erb	C:/Data/Ruby/Nehemiah/spec/views/areas/edit.html.erb_spec.rb	describe "areas/edit.html.erb" do
+areas/index.html.erb	C:/Data/Ruby/Nehemiah/spec/views/areas/index.html.erb_spec.rb	describe "areas/index.html.erb" do
+areas/new.html.erb	C:/Data/Ruby/Nehemiah/spec/views/areas/new.html.erb_spec.rb	describe "areas/new.html.erb" do
+areas/show.html.erb	C:/Data/Ruby/Nehemiah/spec/views/areas/show.html.erb_spec.rb	describe "areas/show.html.erb" do
+argumentNames	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function argumentNames()
+assigns a new ag as @ag	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	it "assigns a new ag as @ag" do
+assigns a new area as @area	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	it "assigns a new area as @area" do
+assigns a new event as @event	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	it "assigns a new event as @event" do
+assigns a new registration as @registration	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	it "assigns a new registration as @registration" do
+assigns a new season as @season	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	it "assigns a new season as @season" do
+assigns a newly created ag as @ag	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	it "assigns a newly created ag as @ag" do
+assigns a newly created area as @area	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	it "assigns a newly created area as @area" do
+assigns a newly created but unsaved ag as @ag	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	it "assigns a newly created but unsaved ag as @ag" do
+assigns a newly created but unsaved area as @area	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	it "assigns a newly created but unsaved area as @area" do
+assigns a newly created but unsaved event as @event	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	it "assigns a newly created but unsaved event as @event" do
+assigns a newly created but unsaved registration as @registration	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	it "assigns a newly created but unsaved registration as @registration" do
+assigns a newly created but unsaved season as @season	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	it "assigns a newly created but unsaved season as @season" do
+assigns a newly created event as @event	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	it "assigns a newly created event as @event" do
+assigns a newly created registration as @registration	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	it "assigns a newly created registration as @registration" do
+assigns a newly created season as @season	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	it "assigns a newly created season as @season" do
+assigns all ags as @ags	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	it "assigns all ags as @ags" do
+assigns all areas as @areas	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	it "assigns all areas as @areas" do
+assigns all events as @events	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	it "assigns all events as @events" do
+assigns all registrations as @registrations	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	it "assigns all registrations as @registrations" do
+assigns all seasons as @seasons	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	it "assigns all seasons as @seasons" do
+assigns the ag as @ag	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	it "assigns the ag as @ag" do
+assigns the area as @area	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	it "assigns the area as @area" do
+assigns the event as @event	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	it "assigns the event as @event" do
+assigns the registration as @registration	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	it "assigns the registration as @registration" do
+assigns the requested ag as @ag	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	it "assigns the requested ag as @ag" do
+assigns the requested ag as @ag	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	it "assigns the requested ag as @ag" do
+assigns the requested ag as @ag	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	it "assigns the requested ag as @ag" do
+assigns the requested area as @area	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	it "assigns the requested area as @area" do
+assigns the requested area as @area	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	it "assigns the requested area as @area" do
+assigns the requested area as @area	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	it "assigns the requested area as @area" do
+assigns the requested event as @event	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	it "assigns the requested event as @event" do
+assigns the requested event as @event	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	it "assigns the requested event as @event" do
+assigns the requested event as @event	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	it "assigns the requested event as @event" do
+assigns the requested registration as @registration	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	it "assigns the requested registration as @registration" do
+assigns the requested registration as @registration	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	it "assigns the requested registration as @registration" do
+assigns the requested registration as @registration	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	it "assigns the requested registration as @registration" do
+assigns the requested season as @season	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	it "assigns the requested season as @season" do
+assigns the requested season as @season	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	it "assigns the requested season as @season" do
+assigns the requested season as @season	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	it "assigns the requested season as @season" do
+assigns the season as @season	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	it "assigns the season as @season" do
+bind	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function bind(context)
+bindAsEventListener	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function bindAsEventListener(context)
+blank	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function blank()
+camelize	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function camelize()
+capitalize	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function capitalize()
+ceil	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function ceil()
+checkDeficiency	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function checkDeficiency(tagName)
+checkReadyState	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function checkReadyState()
+clear	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function clear()
+clone	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function clone(object)
+clone	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function clone()
+clone	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function clone()
+collect	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function collect(iterator, context)
+compact	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function compact()
+concat	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function concat()
+concats two strings with spaces	C:/Data/Ruby/Nehemiah/spec/helpers/seasons_helper_spec.rb	it "concats two strings with spaces" do
+concats two strings with spaces	C:/Data/Ruby/Nehemiah/spec/helpers/registrations_helper_spec.rb	it "concats two strings with spaces" do
+concats two strings with spaces	C:/Data/Ruby/Nehemiah/spec/helpers/home_helper_spec.rb	it "concats two strings with spaces" do
+concats two strings with spaces	C:/Data/Ruby/Nehemiah/spec/helpers/events_helper_spec.rb	it "concats two strings with spaces" do
+concats two strings with spaces	C:/Data/Ruby/Nehemiah/spec/helpers/areas_helper_spec.rb	it "concats two strings with spaces" do
+concats two strings with spaces	C:/Data/Ruby/Nehemiah/spec/helpers/ags_helper_spec.rb	it "concats two strings with spaces" do
+copy	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function copy(methods, destination, onlyIfAbsent)
+create	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function create()
+create	C:/Data/Ruby/Nehemiah/app/controllers/seasons_controller.rb	  def create
+create	C:/Data/Ruby/Nehemiah/app/controllers/registrations_controller.rb	  def create
+create	C:/Data/Ruby/Nehemiah/app/controllers/events_controller.rb	  def create
+create	C:/Data/Ruby/Nehemiah/app/controllers/areas_controller.rb	  def create
+create	C:/Data/Ruby/Nehemiah/app/controllers/ags_controller.rb	  def create
+cssNameFor	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function cssNameFor(key)
+cumulativeOffset	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function cumulativeOffset(element)
+cumulativeScrollOffset	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function cumulativeScrollOffset(element)
+curry	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function curry()
+dasherize	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function dasherize()
+defer	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function defer()
+define	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function define(D)
+delay	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function delay(timeout)
+destroy	C:/Data/Ruby/Nehemiah/app/controllers/seasons_controller.rb	  def destroy
+destroy	C:/Data/Ruby/Nehemiah/app/controllers/registrations_controller.rb	  def destroy
+destroy	C:/Data/Ruby/Nehemiah/app/controllers/events_controller.rb	  def destroy
+destroy	C:/Data/Ruby/Nehemiah/app/controllers/areas_controller.rb	  def destroy
+destroy	C:/Data/Ruby/Nehemiah/app/controllers/ags_controller.rb	  def destroy
+destroys the requested ag	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	it "destroys the requested ag" do
+destroys the requested area	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	it "destroys the requested area" do
+destroys the requested event	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	it "destroys the requested event" do
+destroys the requested registration	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	it "destroys the requested registration" do
+destroys the requested season	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	it "destroys the requested season" do
+detect	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function detect(iterator, context)
+dirCheck	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function dirCheck( dir, cur, doneName, checkSet, nodeCheck, isXML )
+dirNodeCheck	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function dirNodeCheck( dir, cur, doneName, checkSet, nodeCheck, isXML )
+dispatch	C:/Data/Ruby/Nehemiah/public/javascripts/effects.js	function dispatch(effect, eventName)
+down	C:/Data/Ruby/Nehemiah/db/migrate/20101213000943_add_sex_and_age_to_registration.rb	  def self.down
+down	C:/Data/Ruby/Nehemiah/db/migrate/20101208161744_create_registrations.rb	  def self.down
+down	C:/Data/Ruby/Nehemiah/db/migrate/20101208161239_create_events.rb	  def self.down
+down	C:/Data/Ruby/Nehemiah/db/migrate/20101208161045_create_seasons.rb	  def self.down
+down	C:/Data/Ruby/Nehemiah/db/migrate/20101208160108_create_ags.rb	  def self.down
+down	C:/Data/Ruby/Nehemiah/db/migrate/20101208155935_create_areas.rb	  def self.down
+each	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function each(iterator, context)
+each	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function each(iterator)
+eachSlice	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function eachSlice(number, iterator, context)
+edit	C:/Data/Ruby/Nehemiah/app/controllers/seasons_controller.rb	  def edit
+edit	C:/Data/Ruby/Nehemiah/app/controllers/registrations_controller.rb	  def edit
+edit	C:/Data/Ruby/Nehemiah/app/controllers/events_controller.rb	  def edit
+edit	C:/Data/Ruby/Nehemiah/app/controllers/areas_controller.rb	  def edit
+edit	C:/Data/Ruby/Nehemiah/app/controllers/ags_controller.rb	  def edit
+element	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function element(event)
+empty	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function empty()
+endsWith	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function endsWith(pattern)
+escapeHTML	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function escapeHTML()
+evalJSON	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function evalJSON(sanitize)
+evalScripts	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function evalScripts()
+events/edit.html.erb	C:/Data/Ruby/Nehemiah/spec/views/events/edit.html.erb_spec.rb	describe "events/edit.html.erb" do
+events/index.html.erb	C:/Data/Ruby/Nehemiah/spec/views/events/index.html.erb_spec.rb	describe "events/index.html.erb" do
+events/new.html.erb	C:/Data/Ruby/Nehemiah/spec/views/events/new.html.erb_spec.rb	describe "events/new.html.erb" do
+events/show.html.erb	C:/Data/Ruby/Nehemiah/spec/views/events/show.html.erb_spec.rb	describe "events/show.html.erb" do
+eventshow	C:/Data/Ruby/Nehemiah/app/controllers/registrations_controller.rb	  def eventshow
+extend	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function extend(destination, source)
+extend	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function extend(tagName)
+extendElementWith	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function extendElementWith(element, methods)
+extendElements	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function extendElements(elements)
+extractScripts	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function extractScripts()
+fallback	C:/Data/Ruby/Nehemiah/public/javascripts/controls.js	function fallback(name, expr)
+find	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function find(elements, expression, index)
+findAll	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function findAll(iterator, context)
+findDOMClass	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function findDOMClass(tagName)
+findElement	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function findElement(event, expression)
+fire	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function fire(element, eventName, memo, bubble)
+fireContentLoadedEvent	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function fireContentLoadedEvent()
+first	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function first()
+flatten	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function flatten()
+floor	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function floor()
+get	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function get(key)
+getDimensions	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function getDimensions(element)
+getLayout	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function getLayout(element, preCompute)
+getOffsetParent	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function getOffsetParent(element)
+getPixelValue	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function getPixelValue(value, property)
+getRootElement	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function getRootElement()
+grep	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function grep(filter, iterator, context)
+gsub	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function gsub(pattern, replacement)
+handleMethod	C:/Data/Ruby/Nehemiah/public/javascripts/rails.js	function handleMethod(element)
+handleRemote	C:/Data/Ruby/Nehemiah/public/javascripts/rails.js	function handleRemote(element)
+home/index.html.erb	C:/Data/Ruby/Nehemiah/spec/views/home/index.html.erb_spec.rb	describe "home/index.html.erb" do
+inGroupsOf	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function inGroupsOf(number, fillWith)
+include	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function include(pattern)
+include	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function include(object)
+include	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function include(value)
+index	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function index(value)
+index	C:/Data/Ruby/Nehemiah/app/controllers/seasons_controller.rb	  def index
+index	C:/Data/Ruby/Nehemiah/app/controllers/registrations_controller.rb	  def index
+index	C:/Data/Ruby/Nehemiah/app/controllers/home_controller.rb	  def index
+index	C:/Data/Ruby/Nehemiah/app/controllers/events_controller.rb	  def index
+index	C:/Data/Ruby/Nehemiah/app/controllers/areas_controller.rb	  def index
+index	C:/Data/Ruby/Nehemiah/app/controllers/ags_controller.rb	  def index
+indexOf	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function indexOf(item, i)
+initialize	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function initialize(object)
+initialize	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function initialize(start, end, exclusive)
+inject	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function inject(memo, iterator, context)
+inspect	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function inspect(object)
+inspect	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function inspect(useDoubleQuotes)
+inspect	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function inspect()
+inspect	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function inspect()
+inspect	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function inspect()
+interpolate	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function interpolate(object, pattern)
+intersect	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function intersect(array)
+invoke	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function invoke(method)
+isArray	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function isArray(object)
+isBody	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function isBody(element)
+isDetached	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function isDetached(element)
+isDisplayed	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function isDisplayed(element)
+isElement	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function isElement(object)
+isEventSupported	C:/Data/Ruby/Nehemiah/public/javascripts/rails.js	function isEventSupported(eventName)
+isForm	C:/Data/Ruby/Nehemiah/public/javascripts/rails.js	function isForm(element)
+isFunction	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function isFunction(object)
+isHash	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function isHash(object)
+isInput	C:/Data/Ruby/Nehemiah/public/javascripts/rails.js	function isInput(element)
+isJSON	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function isJSON()
+isLeftClick	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function isLeftClick(event)   { return _isButton(event, 0)
+isMiddleClick	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function isMiddleClick(event) { return _isButton(event, 1)
+isNumber	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function isNumber(object)
+isRightClick	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function isRightClick(event)  { return _isButton(event, 2)
+isString	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function isString(object)
+isUndefined	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function isUndefined(object)
+iter	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function iter(name)
+keys	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function keys(object)
+keys	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function keys()
+klass	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function klass()
+last	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function last()
+lastIndexOf	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function lastIndexOf(item, i)
+match	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function match()
+match	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function match(element, selector)
+max	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function max(iterator, context)
+measure	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function measure(element, property)
+merge	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function merge(array, args)
+merge	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function merge(object)
+methodize	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function methodize()
+min	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function min(iterator, context)
+mock_ag	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	  def mock_ag(stubs={})
+mock_area	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	  def mock_area(stubs={})
+mock_event	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	  def mock_event(stubs={})
+mock_registration	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	  def mock_registration(stubs={})
+mock_season	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	  def mock_season(stubs={})
+new	C:/Data/Ruby/Nehemiah/app/controllers/seasons_controller.rb	  def new
+new	C:/Data/Ruby/Nehemiah/app/controllers/registrations_controller.rb	  def new
+new	C:/Data/Ruby/Nehemiah/app/controllers/events_controller.rb	  def new
+new	C:/Data/Ruby/Nehemiah/app/controllers/areas_controller.rb	  def new
+new	C:/Data/Ruby/Nehemiah/app/controllers/ags_controller.rb	  def new
+observe	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function observe(element, eventName, handler)
+on	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function on(element, eventName, selector, callback)
+parseColor	C:/Data/Ruby/Nehemiah/public/javascripts/effects.js	function parseColor(color)
+parseJSON	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function parseJSON()
+partition	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function partition(iterator, context)
+pluck	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function pluck(property)
+pointer	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function pointer(event)
+pointerX	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function pointerX(event)
+pointerY	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function pointerY(event)
+pollDoScroll	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function pollDoScroll()
+positionedOffset	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function positionedOffset(element)
+prepareReplacement	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function prepareReplacement(replacement)
+purgeElement	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function purgeElement(element)
+re-renders the 'edit' template	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	it "re-renders the 'edit' template" do
+re-renders the 'edit' template	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	it "re-renders the 'edit' template" do
+re-renders the 'edit' template	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	it "re-renders the 'edit' template" do
+re-renders the 'edit' template	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	it "re-renders the 'edit' template" do
+re-renders the 'edit' template	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	it "re-renders the 'edit' template" do
+re-renders the 'new' template	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	it "re-renders the 'new' template" do
+re-renders the 'new' template	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	it "re-renders the 'new' template" do
+re-renders the 'new' template	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	it "re-renders the 'new' template" do
+re-renders the 'new' template	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	it "re-renders the 'new' template" do
+re-renders the 'new' template	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	it "re-renders the 'new' template" do
+recognizes and generates #create	C:/Data/Ruby/Nehemiah/spec/routing/seasons_routing_spec.rb	it "recognizes and generates #create" do
+recognizes and generates #create	C:/Data/Ruby/Nehemiah/spec/routing/registrations_routing_spec.rb	it "recognizes and generates #create" do
+recognizes and generates #create	C:/Data/Ruby/Nehemiah/spec/routing/events_routing_spec.rb	it "recognizes and generates #create" do
+recognizes and generates #create	C:/Data/Ruby/Nehemiah/spec/routing/areas_routing_spec.rb	it "recognizes and generates #create" do
+recognizes and generates #create	C:/Data/Ruby/Nehemiah/spec/routing/ags_routing_spec.rb	it "recognizes and generates #create" do
+recognizes and generates #destroy	C:/Data/Ruby/Nehemiah/spec/routing/seasons_routing_spec.rb	it "recognizes and generates #destroy" do
+recognizes and generates #destroy	C:/Data/Ruby/Nehemiah/spec/routing/registrations_routing_spec.rb	it "recognizes and generates #destroy" do
+recognizes and generates #destroy	C:/Data/Ruby/Nehemiah/spec/routing/events_routing_spec.rb	it "recognizes and generates #destroy" do
+recognizes and generates #destroy	C:/Data/Ruby/Nehemiah/spec/routing/areas_routing_spec.rb	it "recognizes and generates #destroy" do
+recognizes and generates #destroy	C:/Data/Ruby/Nehemiah/spec/routing/ags_routing_spec.rb	it "recognizes and generates #destroy" do
+recognizes and generates #edit	C:/Data/Ruby/Nehemiah/spec/routing/seasons_routing_spec.rb	it "recognizes and generates #edit" do
+recognizes and generates #edit	C:/Data/Ruby/Nehemiah/spec/routing/registrations_routing_spec.rb	it "recognizes and generates #edit" do
+recognizes and generates #edit	C:/Data/Ruby/Nehemiah/spec/routing/events_routing_spec.rb	it "recognizes and generates #edit" do
+recognizes and generates #edit	C:/Data/Ruby/Nehemiah/spec/routing/areas_routing_spec.rb	it "recognizes and generates #edit" do
+recognizes and generates #edit	C:/Data/Ruby/Nehemiah/spec/routing/ags_routing_spec.rb	it "recognizes and generates #edit" do
+recognizes and generates #index	C:/Data/Ruby/Nehemiah/spec/routing/seasons_routing_spec.rb	it "recognizes and generates #index" do
+recognizes and generates #index	C:/Data/Ruby/Nehemiah/spec/routing/registrations_routing_spec.rb	it "recognizes and generates #index" do
+recognizes and generates #index	C:/Data/Ruby/Nehemiah/spec/routing/events_routing_spec.rb	it "recognizes and generates #index" do
+recognizes and generates #index	C:/Data/Ruby/Nehemiah/spec/routing/areas_routing_spec.rb	it "recognizes and generates #index" do
+recognizes and generates #index	C:/Data/Ruby/Nehemiah/spec/routing/ags_routing_spec.rb	it "recognizes and generates #index" do
+recognizes and generates #new	C:/Data/Ruby/Nehemiah/spec/routing/seasons_routing_spec.rb	it "recognizes and generates #new" do
+recognizes and generates #new	C:/Data/Ruby/Nehemiah/spec/routing/registrations_routing_spec.rb	it "recognizes and generates #new" do
+recognizes and generates #new	C:/Data/Ruby/Nehemiah/spec/routing/events_routing_spec.rb	it "recognizes and generates #new" do
+recognizes and generates #new	C:/Data/Ruby/Nehemiah/spec/routing/areas_routing_spec.rb	it "recognizes and generates #new" do
+recognizes and generates #new	C:/Data/Ruby/Nehemiah/spec/routing/ags_routing_spec.rb	it "recognizes and generates #new" do
+recognizes and generates #show	C:/Data/Ruby/Nehemiah/spec/routing/seasons_routing_spec.rb	it "recognizes and generates #show" do
+recognizes and generates #show	C:/Data/Ruby/Nehemiah/spec/routing/registrations_routing_spec.rb	it "recognizes and generates #show" do
+recognizes and generates #show	C:/Data/Ruby/Nehemiah/spec/routing/events_routing_spec.rb	it "recognizes and generates #show" do
+recognizes and generates #show	C:/Data/Ruby/Nehemiah/spec/routing/areas_routing_spec.rb	it "recognizes and generates #show" do
+recognizes and generates #show	C:/Data/Ruby/Nehemiah/spec/routing/ags_routing_spec.rb	it "recognizes and generates #show" do
+recognizes and generates #update	C:/Data/Ruby/Nehemiah/spec/routing/seasons_routing_spec.rb	it "recognizes and generates #update" do
+recognizes and generates #update	C:/Data/Ruby/Nehemiah/spec/routing/registrations_routing_spec.rb	it "recognizes and generates #update" do
+recognizes and generates #update	C:/Data/Ruby/Nehemiah/spec/routing/events_routing_spec.rb	it "recognizes and generates #update" do
+recognizes and generates #update	C:/Data/Ruby/Nehemiah/spec/routing/areas_routing_spec.rb	it "recognizes and generates #update" do
+recognizes and generates #update	C:/Data/Ruby/Nehemiah/spec/routing/ags_routing_spec.rb	it "recognizes and generates #update" do
+redirects to the ag	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	it "redirects to the ag" do
+redirects to the ags list	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	it "redirects to the ags list" do
+redirects to the area	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	it "redirects to the area" do
+redirects to the areas list	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	it "redirects to the areas list" do
+redirects to the created ag	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	it "redirects to the created ag" do
+redirects to the created area	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	it "redirects to the created area" do
+redirects to the created event	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	it "redirects to the created event" do
+redirects to the created registration	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	it "redirects to the created registration" do
+redirects to the created season	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	it "redirects to the created season" do
+redirects to the event	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	it "redirects to the event" do
+redirects to the events list	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	it "redirects to the events list" do
+redirects to the registration	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	it "redirects to the registration" do
+redirects to the registrations list	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	it "redirects to the registrations list" do
+redirects to the season	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	it "redirects to the season" do
+redirects to the seasons list	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	it "redirects to the seasons list" do
+registrations/edit.html.erb	C:/Data/Ruby/Nehemiah/spec/views/registrations/edit.html.erb_spec.rb	describe "registrations/edit.html.erb" do
+registrations/index.html.erb	C:/Data/Ruby/Nehemiah/spec/views/registrations/index.html.erb_spec.rb	describe "registrations/index.html.erb" do
+registrations/new.html.erb	C:/Data/Ruby/Nehemiah/spec/views/registrations/new.html.erb_spec.rb	describe "registrations/new.html.erb" do
+registrations/show.html.erb	C:/Data/Ruby/Nehemiah/spec/views/registrations/show.html.erb_spec.rb	describe "registrations/show.html.erb" do
+reject	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function reject(iterator, context)
+relativize	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function relativize(element)
+renders a list of ags	C:/Data/Ruby/Nehemiah/spec/views/ags/index.html.erb_spec.rb	it "renders a list of ags" do
+renders a list of areas	C:/Data/Ruby/Nehemiah/spec/views/areas/index.html.erb_spec.rb	it "renders a list of areas" do
+renders a list of events	C:/Data/Ruby/Nehemiah/spec/views/events/index.html.erb_spec.rb	it "renders a list of events" do
+renders a list of registrations	C:/Data/Ruby/Nehemiah/spec/views/registrations/index.html.erb_spec.rb	it "renders a list of registrations" do
+renders a list of seasons	C:/Data/Ruby/Nehemiah/spec/views/seasons/index.html.erb_spec.rb	it "renders a list of seasons" do
+renders attributes in <p>	C:/Data/Ruby/Nehemiah/spec/views/seasons/show.html.erb_spec.rb	it "renders attributes in <p>" do
+renders attributes in <p>	C:/Data/Ruby/Nehemiah/spec/views/registrations/show.html.erb_spec.rb	it "renders attributes in <p>" do
+renders attributes in <p>	C:/Data/Ruby/Nehemiah/spec/views/events/show.html.erb_spec.rb	it "renders attributes in <p>" do
+renders attributes in <p>	C:/Data/Ruby/Nehemiah/spec/views/areas/show.html.erb_spec.rb	it "renders attributes in <p>" do
+renders attributes in <p>	C:/Data/Ruby/Nehemiah/spec/views/ags/show.html.erb_spec.rb	it "renders attributes in <p>" do
+renders new ag form	C:/Data/Ruby/Nehemiah/spec/views/ags/new.html.erb_spec.rb	it "renders new ag form" do
+renders new area form	C:/Data/Ruby/Nehemiah/spec/views/areas/new.html.erb_spec.rb	it "renders new area form" do
+renders new event form	C:/Data/Ruby/Nehemiah/spec/views/events/new.html.erb_spec.rb	it "renders new event form" do
+renders new registration form	C:/Data/Ruby/Nehemiah/spec/views/registrations/new.html.erb_spec.rb	it "renders new registration form" do
+renders new season form	C:/Data/Ruby/Nehemiah/spec/views/seasons/new.html.erb_spec.rb	it "renders new season form" do
+renders the edit ag form	C:/Data/Ruby/Nehemiah/spec/views/ags/edit.html.erb_spec.rb	it "renders the edit ag form" do
+renders the edit area form	C:/Data/Ruby/Nehemiah/spec/views/areas/edit.html.erb_spec.rb	it "renders the edit area form" do
+renders the edit event form	C:/Data/Ruby/Nehemiah/spec/views/events/edit.html.erb_spec.rb	it "renders the edit event form" do
+renders the edit registration form	C:/Data/Ruby/Nehemiah/spec/views/registrations/edit.html.erb_spec.rb	it "renders the edit registration form" do
+renders the edit season form	C:/Data/Ruby/Nehemiah/spec/views/seasons/edit.html.erb_spec.rb	it "renders the edit season form" do
+reverse	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function reverse(inline)
+round	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function round()
+routing	C:/Data/Ruby/Nehemiah/spec/routing/seasons_routing_spec.rb	describe "routing" do
+routing	C:/Data/Ruby/Nehemiah/spec/routing/registrations_routing_spec.rb	describe "routing" do
+routing	C:/Data/Ruby/Nehemiah/spec/routing/events_routing_spec.rb	describe "routing" do
+routing	C:/Data/Ruby/Nehemiah/spec/routing/areas_routing_spec.rb	describe "routing" do
+routing	C:/Data/Ruby/Nehemiah/spec/routing/ags_routing_spec.rb	describe "routing" do
+scan	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function scan(pattern, iterator)
+seasons/edit.html.erb	C:/Data/Ruby/Nehemiah/spec/views/seasons/edit.html.erb_spec.rb	describe "seasons/edit.html.erb" do
+seasons/index.html.erb	C:/Data/Ruby/Nehemiah/spec/views/seasons/index.html.erb_spec.rb	describe "seasons/index.html.erb" do
+seasons/new.html.erb	C:/Data/Ruby/Nehemiah/spec/views/seasons/new.html.erb_spec.rb	describe "seasons/new.html.erb" do
+seasons/show.html.erb	C:/Data/Ruby/Nehemiah/spec/views/seasons/show.html.erb_spec.rb	describe "seasons/show.html.erb" do
+select	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function select()
+select	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function select(selector, scope)
+set	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function set(key, value)
+set_agshow_vars	C:/Data/Ruby/Nehemiah/app/controllers/registrations_controller.rb	  def set_agshow_vars
+should be successful	C:/Data/Ruby/Nehemiah/spec/controllers/home_controller_spec.rb	it "should be successful" do
+show	C:/Data/Ruby/Nehemiah/app/controllers/seasons_controller.rb	  def show
+show	C:/Data/Ruby/Nehemiah/app/controllers/registrations_controller.rb	  def show
+show	C:/Data/Ruby/Nehemiah/app/controllers/events_controller.rb	  def show
+show	C:/Data/Ruby/Nehemiah/app/controllers/areas_controller.rb	  def show
+show	C:/Data/Ruby/Nehemiah/app/controllers/ags_controller.rb	  def show
+size	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function size()
+size	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function size()
+sortBy	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function sortBy(iterator, context)
+startsWith	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function startsWith(pattern)
+stop	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function stop(event)
+stopObserving	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function stopObserving(element, eventName, handler)
+string concat	C:/Data/Ruby/Nehemiah/spec/helpers/seasons_helper_spec.rb	describe "string concat" do
+string concat	C:/Data/Ruby/Nehemiah/spec/helpers/registrations_helper_spec.rb	describe "string concat" do
+string concat	C:/Data/Ruby/Nehemiah/spec/helpers/home_helper_spec.rb	describe "string concat" do
+string concat	C:/Data/Ruby/Nehemiah/spec/helpers/events_helper_spec.rb	describe "string concat" do
+string concat	C:/Data/Ruby/Nehemiah/spec/helpers/areas_helper_spec.rb	describe "string concat" do
+string concat	C:/Data/Ruby/Nehemiah/spec/helpers/ags_helper_spec.rb	describe "string concat" do
+stringify	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function stringify(object)
+strip	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function strip()
+stripAlpha	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function stripAlpha(filter)
+stripScripts	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function stripScripts()
+stripTags	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function stripTags()
+sub	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function sub(pattern, replacement, count)
+subclass	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function subclass()
+succ	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function succ()
+succ	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function succ()
+times	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function times(count)
+times	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function times(iterator, context)
+toArray	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function toArray()
+toArray	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function toArray()
+toCSSPixels	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function toCSSPixels(number)
+toColorPart	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function toColorPart()
+toDecimal	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function toDecimal(pctString)
+toHTML	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function toHTML(object)
+toISOString	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function toISOString()
+toJSON	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function toJSON(value)
+toJSON	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function toJSON()
+toObject	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function toObject()
+toPaddedString	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function toPaddedString(length, radix)
+toQueryPair	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function toQueryPair(key, value)
+toQueryParams	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function toQueryParams(separator)
+toQueryString	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function toQueryString(object)
+toQueryString	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function toQueryString()
+to_s	C:/Data/Ruby/Nehemiah/app/models/season.rb		def to_s
+to_s	C:/Data/Ruby/Nehemiah/app/models/area.rb		def to_s
+to_s	C:/Data/Ruby/Nehemiah/app/models/ag.rb		def to_s
+truncate	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function truncate(length, truncation)
+underscore	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function underscore()
+unescapeHTML	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function unescapeHTML()
+unfilterJSON	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function unfilterJSON(filter)
+uniq	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function uniq(sorted)
+unset	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function unset(key)
+up	C:/Data/Ruby/Nehemiah/db/migrate/20101213000943_add_sex_and_age_to_registration.rb	  def self.up
+up	C:/Data/Ruby/Nehemiah/db/migrate/20101208161744_create_registrations.rb	  def self.up
+up	C:/Data/Ruby/Nehemiah/db/migrate/20101208161239_create_events.rb	  def self.up
+up	C:/Data/Ruby/Nehemiah/db/migrate/20101208161045_create_seasons.rb	  def self.up
+up	C:/Data/Ruby/Nehemiah/db/migrate/20101208160108_create_ags.rb	  def self.up
+up	C:/Data/Ruby/Nehemiah/db/migrate/20101208155935_create_areas.rb	  def self.up
+update	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function update(array, args)
+update	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function update(object)
+update	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function update(element, content)
+update	C:/Data/Ruby/Nehemiah/app/controllers/seasons_controller.rb	  def update
+update	C:/Data/Ruby/Nehemiah/app/controllers/registrations_controller.rb	  def update
+update	C:/Data/Ruby/Nehemiah/app/controllers/events_controller.rb	  def update
+update	C:/Data/Ruby/Nehemiah/app/controllers/areas_controller.rb	  def update
+update	C:/Data/Ruby/Nehemiah/app/controllers/ags_controller.rb	  def update
+updates the requested ag	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	it "updates the requested ag" do
+updates the requested area	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	it "updates the requested area" do
+updates the requested event	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	it "updates the requested event" do
+updates the requested registration	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	it "updates the requested registration" do
+updates the requested season	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	it "updates the requested season" do
+values	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function values(object)
+values	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function values()
+viewportOffset	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function viewportOffset(forElement)
+with invalid params	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	describe "with invalid params" do
+with invalid params	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	describe "with invalid params" do
+with invalid params	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	describe "with invalid params" do
+with invalid params	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	describe "with invalid params" do
+with invalid params	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	describe "with invalid params" do
+with invalid params	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	describe "with invalid params" do
+with invalid params	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	describe "with invalid params" do
+with invalid params	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	describe "with invalid params" do
+with invalid params	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	describe "with invalid params" do
+with invalid params	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	describe "with invalid params" do
+with valid params	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	describe "with valid params" do
+with valid params	C:/Data/Ruby/Nehemiah/spec/controllers/seasons_controller_spec.rb	describe "with valid params" do
+with valid params	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	describe "with valid params" do
+with valid params	C:/Data/Ruby/Nehemiah/spec/controllers/registrations_controller_spec.rb	describe "with valid params" do
+with valid params	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	describe "with valid params" do
+with valid params	C:/Data/Ruby/Nehemiah/spec/controllers/events_controller_spec.rb	describe "with valid params" do
+with valid params	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	describe "with valid params" do
+with valid params	C:/Data/Ruby/Nehemiah/spec/controllers/areas_controller_spec.rb	describe "with valid params" do
+with valid params	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	describe "with valid params" do
+with valid params	C:/Data/Ruby/Nehemiah/spec/controllers/ags_controller_spec.rb	describe "with valid params" do
+without	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function without()
+works! (now write some real specs)	C:/Data/Ruby/Nehemiah/spec/requests/seasons_spec.rb	it "works! (now write some real specs)" do
+works! (now write some real specs)	C:/Data/Ruby/Nehemiah/spec/requests/registrations_spec.rb	it "works! (now write some real specs)" do
+works! (now write some real specs)	C:/Data/Ruby/Nehemiah/spec/requests/events_spec.rb	it "works! (now write some real specs)" do
+works! (now write some real specs)	C:/Data/Ruby/Nehemiah/spec/requests/areas_spec.rb	it "works! (now write some real specs)" do
+works! (now write some real specs)	C:/Data/Ruby/Nehemiah/spec/requests/ags_spec.rb	it "works! (now write some real specs)" do
+wrap	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function wrap(wrapper)
+zip	C:/Data/Ruby/Nehemiah/public/javascripts/prototype.js	function zip()
